@@ -19,3 +19,4 @@ Artifacts are saved under `results/`:
 - figures in `results/figures/`: `spread.png`, `midprice.png`, `depths.png`, `imbalance.png`, `latency_hist.png`
 
 There is also an interactive way to simulate and test the orderbook under the `notebooks/` folder. Use the `OrderBook_interactive_Report.ipynb`
+Check out `OrderBook_Simulator_Report_example.pdf` under `docs/` to see an example output of what this project does
