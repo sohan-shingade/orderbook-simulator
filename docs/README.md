@@ -17,3 +17,5 @@ python -m orderbook.cli report --report results/
 Artifacts are saved under `results/`:
 - `trades_*.csv`, `snapshots_*.csv`, `latencies_*.csv`
 - figures in `results/figures/`: `spread.png`, `midprice.png`, `depths.png`, `imbalance.png`, `latency_hist.png`
+
+There is also an interactive way to simulate and test the orderbook under the `notebooks/` folder. Use the `OrderBook_interactive_Report.ipynb`
